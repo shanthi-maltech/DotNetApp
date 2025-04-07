@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\bin\Debug\net8.0\HelloDevOps.exe
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\bin\Debug\net8.0\HelloDevOps.deps.json
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\bin\Debug\net8.0\HelloDevOps.runtimeconfig.json
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\bin\Debug\net8.0\HelloDevOps.dll
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\bin\Debug\net8.0\HelloDevOps.pdb
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.dll
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\refint\HelloDevOps.dll
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.pdb
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\HelloDevOps.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\HelloDevOps\HelloDevOps\obj\Debug\net8.0\ref\HelloDevOps.dll
